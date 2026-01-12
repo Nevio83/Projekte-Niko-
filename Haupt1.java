@@ -1,5 +1,4 @@
-//Franz Hain
-//Übung: Eingabeparameter, ohne Rückgabewert
+
 public class Haupt1
 {
    public static void main(String argv[])

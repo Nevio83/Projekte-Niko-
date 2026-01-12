@@ -1,12 +1,9 @@
-//Franz Hain
-//Übung: Eingabeparameter, ohne Rückgabewert
-public class Wuerfel1
+
 {
    //Attribute
    public double dblSeiteA;
       
    //Methoden
-   //Fläche berechnen
    public void showFlaeche()
    {
       double dblFlaeche;
