@@ -1,9 +1,18 @@
-public class Wuerfel1
+
+public class Wuerfel2
 {
    //Attribute
-   public double dblSeiteA;
+   private double dblSeiteA;
       
    //Methoden
+  
+   public void setSeiteA(double prmSeiteA)
+   {
+      dblSeiteA = prmSeiteA;
+   }
+
+
+   
    public void showFlaeche()
    {
       double dblFlaeche;

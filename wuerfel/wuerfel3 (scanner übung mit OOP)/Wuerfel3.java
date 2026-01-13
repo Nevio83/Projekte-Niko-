@@ -1,5 +1,4 @@
-//Franz Hain
-//Übung: Konstruktor
+
 public class Wuerfel3
 {
   //Attribute
@@ -27,7 +26,7 @@ public class Wuerfel3
     return dblSeiteA;
   }     
      
-  //Fläche berechnen
+
   public double getFlaeche()
   {
     double dblFlaeche;
