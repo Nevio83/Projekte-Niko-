@@ -9,8 +9,7 @@ public class Haupt1
       //Methodenaufruf setSeite im Objekt objR1
       objR1.dblSeiteA=5;
       objR1.dblSeiteB=3;
-    
-    
+  
       //Eingabe Seite
       System.out.println("******************************************");
       System.out.println("");

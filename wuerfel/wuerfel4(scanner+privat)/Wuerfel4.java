@@ -10,9 +10,7 @@ public class Wuerfel4
    {
       dblSeiteA = prmSeiteA;
    }
-
-
-   
+ 
    public void showFlaeche()
    {
       double dblFlaeche;
