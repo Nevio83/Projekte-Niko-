@@ -12,13 +12,11 @@ public class Haupt1
      obja1.intMenge = scanner.nextInt();
      
      obja1.dblEinzelPreis=10.5;
-     System.out.println("***************************");
+   
      System.out.println("Einzelpreis: "+obja1.dblEinzelPreis);
      System.out.println("Menge: "+obja1.intMenge);
-     System.out.println("***************************");
      obja1.showNettoPreis();
      obja1.showBruttoPreis();
-     System.out.println("***************************");
       //Ausgabe der gesetzten Werte
 
    }
