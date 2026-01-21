@@ -1,10 +1,16 @@
+import java.util.Scanner;
+
 public class Haupt1
 {
    public static void main(String argv[])
    {
+      Scanner scanner = new Scanner(System.in);
       //Artikel
      Artikel1 obja1= new Artikel1();
-     obja1.intMenge=5;
+     
+     System.out.print("Bitte geben Sie die Menge ein: ");
+     obja1.intMenge = scanner.nextInt();
+     
      obja1.dblEinzelPreis=10.5;
      System.out.println("***************************");
      System.out.println("Einzelpreis: "+obja1.dblEinzelPreis);
