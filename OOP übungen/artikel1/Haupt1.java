@@ -13,7 +13,5 @@ public class Haupt1
      obja1.showNettoPreis();
      obja1.showBruttoPreis();
      System.out.println("***************************");
-      //Ausgabe der gesetzten Werte
-
    }
 }
